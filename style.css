@@ -1,1 +1,89 @@
 
+* {
+    margin: 0;
+    padding: 40px;
+   }
+   
+   header { 
+     display:inline-block;
+     width: 40%;
+     Height: 200px;
+      }
+  .me{
+   display:block;
+   Width:400px;
+   height:320px;
+   float:right;
+   padding:0%;
+    }
+    a:hover {
+      background-color: yellow;
+    }
+
+
+    p {
+      background-color: darkgray;
+      border-color: white;
+      border-width: 2px;
+    }
+    div{
+   
+      text-align: center;
+      
+    }
+    .work h1 {
+      font-size: 40px;
+      text-align: center;
+    }
+     
+   .facts{
+background-color: black;
+      margin-top: 60px;
+      
+   }
+.intro-p{
+   text-align: center;
+   font-size:40px;
+}
+
+   @media screen  and (max-width:1992px)
+   {
+      * { background-color: black;
+      color:pink}
+      
+   }
+    
+   @media screen  and (max-width:892px)
+   {
+      * { background-color: white;
+      color:black;}
+      
+   }
+    
+   @media screen  and (max-width:792px)
+   {
+      * { background-color: pink;
+      color:white}
+      
+   }
+    .cute{
+
+      float:right;
+      width:20%;
+    }
+ul{
+   float:left;
+   margin-left:-100px;
+
+}
+header p{
+   display:inline;
+   width:100%;
+margin:0px;
+font-size: small;
+}
+   
+   p {
+    text-align: center;
+    font-size: 30px;
+   }
