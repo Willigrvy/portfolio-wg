@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+   }
+
+.h1 {
+    color:pink;
+    display:block;
+    background-color: black;
+    flex-wrap: wrap;
+}
+.body {
+    color:aqua
+}
